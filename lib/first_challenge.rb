@@ -1,4 +1,4 @@
-rspec lib/first_challenge.rb --f-f
+rspec spec/01_challenge_spec.rb --f-f
 
 
 def first_challenge
